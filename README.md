@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyoj-Singh
-- 👀 I’m interested in Biological Physics
+- 👀 I’m interested in Biological Physics and multiscale modelling.
 - 🌱 I’m currently learning multiscale modelling, parallel programing, machine learning
 - 💞️ I’m looking to collaborate on multiscale modelling, biological physics
 - 📫 How to reach me divyojs@gmail.com
